@@ -1,0 +1,19 @@
+EWS Roster Calendar (code version) - how to put it online
+
+This version has NO names in it. Each person uses their own 4-character code.
+Keep the code list (EWS_Roster_Codes_PRIVATE.xlsx) to yourself - never upload it.
+
+1. Delete the old repository (it has names in its history):
+   github.com/bigtexo30-beep/ews-roster-7k2q > Settings > scroll to the bottom
+   > Delete this repository > follow the prompts.
+2. Make a new repository: + > New repository, name it e.g. ews-roster-x4p9,
+   tick Public, Create repository.
+3. Click "uploading an existing file". Open the unzipped folder, press Cmd+A to
+   select everything INSIDE it, drag onto the page, wait for all files to load,
+   then Commit changes.
+4. Settings > Pages > Branch: main, / (root) > Save. Wait a minute or two.
+5. Your link is https://bigtexo30-beep.github.io/<repository name>/
+6. Send each Train Manager the link plus their own code (privately).
+
+When the roster changes: ask Claude to rebuild using the same code list, then
+Add file > Upload files with the new files and Commit changes.
