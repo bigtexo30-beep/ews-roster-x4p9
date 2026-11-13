@@ -4,7 +4,7 @@ PRODID:-//EWS Edinburgh//Roster Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:EWS work roster
-X-APPLE-CALENDAR-COLOR:#7A1F3D
+NAME:EWS work roster
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -26,983 +26,885 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261214@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261214-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261214T132000
-DTEND;TZID=Europe/London:20261214T234000
-SUMMARY:Spare (A/R) 13:20–23:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 10
- . Always check the alteration sheet daily.
+DTEND;TZID=Europe/London:20261214T215600
+SUMMARY:Spare (A/R) 13:20–21:56
+DESCRIPTION:Book on 13:20\, book off 21:56. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261215@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261215-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261215T150000
 DTEND;TZID=Europe/London:20261215T233600
 SUMMARY:Spare (A/R) 15:00–23:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 10
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:00\, book off 23:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261218@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261218-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261218T142500
 DTEND;TZID=Europe/London:20261218T224300
 SUMMARY:EW611 14:25–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 10
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:25\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261219@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261219-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261219T122600
 DTEND;TZID=Europe/London:20261219T224200
 SUMMARY:EW1611 12:26–22:42
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 10
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 12:26\, book off 22:42. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261220@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261220-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261220T122700
 DTEND;TZID=Europe/London:20261220T213800
 SUMMARY:EW2609 12:27–21:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 11
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 12:27\, book off 21:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261221@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261221-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261221T142500
 DTEND;TZID=Europe/London:20261221T224300
 SUMMARY:EW611 14:25–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 11
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:25\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261222@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261222-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261222T142500
 DTEND;TZID=Europe/London:20261222T224300
 SUMMARY:EW611 14:25–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 11
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:25\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261223@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261223-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261223T162000
 DTEND;TZID=Europe/London:20261224T002600
 SUMMARY:EW614 16:20–00:26
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 11
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:20\, book off 00:26. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261224@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261224-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261224T174500
 DTEND;TZID=Europe/London:20261225T011600
 SUMMARY:EW621 17:45–01:16
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 11
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 17:45\, book off 01:16. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261230@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20261230-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20261230T091300
 DTEND;TZID=Europe/London:20261230T174900
 SUMMARY:Spare (A/R) 09:13–17:49
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 12
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 09:13\, book off 17:49. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20261231@ews-roster
-DTSTAMP:20261109T145254Z
-DTSTART;TZID=Europe/London:20261231T104000
-DTEND;TZID=Europe/London:20261231T191600
-SUMMARY:Spare (A/R) 10:40–19:16
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 12
- . Always check the alteration sheet daily.
+UID:20261231-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
+DTSTART;TZID=Europe/London:20261231T113500
+DTEND;TZID=Europe/London:20261231T201100
+SUMMARY:Spare (A/R) 11:35–20:11
+DESCRIPTION:Book on 11:35\, book off 20:11. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270101@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270101-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270101T122600
 DTEND;TZID=Europe/London:20270101T213800
 SUMMARY:EW608 12:26–21:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 12
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 12:26\, book off 21:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270102@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270102-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270102T112600
 DTEND;TZID=Europe/London:20270102T173800
 SUMMARY:EW1610 11:26–17:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 12
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:26\, book off 17:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270103@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270103-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270103T102300
 DTEND;TZID=Europe/London:20270103T174000
 SUMMARY:EW2606 10:23–17:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 13
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 10:23\, book off 17:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270104@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270104-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270104T071300
 DTEND;TZID=Europe/London:20270104T163600
 SUMMARY:EW606 07:13–16:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 13
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:13\, book off 16:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270105@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270105-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270105T071300
 DTEND;TZID=Europe/London:20270105T163600
 SUMMARY:EW606 07:13–16:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 13
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:13\, book off 16:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270108@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270108-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270108T043000
 DTEND;TZID=Europe/London:20270108T130600
 SUMMARY:Spare (A/R) 04:30–13:06
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 13
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 04:30\, book off 13:06. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270109@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270109-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270109T054600
 DTEND;TZID=Europe/London:20270109T133900
 SUMMARY:EW1604 05:46–13:39
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 13
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 05:46\, book off 13:39. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270111@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270111-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270111T051800
 DTEND;TZID=Europe/London:20270111T144000
 SUMMARY:EW602 05:18–14:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 14
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 05:18\, book off 14:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270112@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270112-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270112T051800
 DTEND;TZID=Europe/London:20270112T144000
 SUMMARY:EW602 05:18–14:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 14
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 05:18\, book off 14:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270113@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270113-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270113T071300
-DTEND;TZID=Europe/London:20270113T173800
-SUMMARY:Spare (A/R) 07:13–17:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 14
- . Always check the alteration sheet daily.
+DTEND;TZID=Europe/London:20270113T154900
+SUMMARY:Spare (A/R) 07:13–15:49
+DESCRIPTION:Book on 07:13\, book off 15:49. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270114@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270114-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270114T091300
 DTEND;TZID=Europe/London:20270114T174900
 SUMMARY:Spare (A/R) 09:13–17:49
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 14
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 09:13\, book off 17:49. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270120@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270120-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270120T133800
 DTEND;TZID=Europe/London:20270120T224300
 SUMMARY:EW610 13:38–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 15
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:38\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270121@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270121-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270121T143800
 DTEND;TZID=Europe/London:20270121T234000
 SUMMARY:EW612 14:38–23:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 15
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:38\, book off 23:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270122@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270122-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270122T163500
 DTEND;TZID=Europe/London:20270123T011100
 SUMMARY:Spare (A/R) 16:35–01:11
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 15
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:35\, book off 01:11. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270123@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270123-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270123T162500
 DTEND;TZID=Europe/London:20270124T000700
 SUMMARY:EW1618 16:25–00:07
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 15
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:25\, book off 00:07. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270124@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270124-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270124T172100
 DTEND;TZID=Europe/London:20270124T232100
 SUMMARY:EW2612 17:21–23:21
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 16
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 17:21\, book off 23:21. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270125@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270125-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270125T170000
 DTEND;TZID=Europe/London:20270126T013600
 SUMMARY:Spare (A/R) 17:00–01:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 16
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 17:00\, book off 01:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270126@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270126-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270126T174500
 DTEND;TZID=Europe/London:20270127T011600
 SUMMARY:EW621 17:45–01:16
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 16
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 17:45\, book off 01:16. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270129@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270129-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270129T073500
 DTEND;TZID=Europe/London:20270129T161100
 SUMMARY:Spare (A/R) 07:35–16:11
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 16
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:35\, book off 16:11. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270130@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270130-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270130T071500
 DTEND;TZID=Europe/London:20270130T155100
 SUMMARY:Spare (A/R) 07:15–15:51
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 16
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:15\, book off 15:51. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270201@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270201-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270201T043000
 DTEND;TZID=Europe/London:20270201T130600
 SUMMARY:Spare (A/R) 04:30–13:06
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 17
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 04:30\, book off 13:06. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270202@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270202-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270202T062400
 DTEND;TZID=Europe/London:20270202T144000
 SUMMARY:EW605 06:24–14:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 17
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 06:24\, book off 14:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270203@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270203-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270203T054600
 DTEND;TZID=Europe/London:20270203T153900
 SUMMARY:EW603 05:46–15:39
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 17
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 05:46\, book off 15:39. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270204@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270204-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270204T071300
-DTEND;TZID=Europe/London:20270204T173800
-SUMMARY:Spare (A/R) 07:13–17:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 17
- . Always check the alteration sheet daily.
+DTEND;TZID=Europe/London:20270204T154900
+SUMMARY:Spare (A/R) 07:13–15:49
+DESCRIPTION:Book on 07:13\, book off 15:49. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270210@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270210-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270210T044900
 DTEND;TZID=Europe/London:20270210T124100
 SUMMARY:EW601 04:49–12:41
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 18
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 04:49\, book off 12:41. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270211@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270211-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270211T053400
 DTEND;TZID=Europe/London:20270211T133900
 SUMMARY:EW701 05:34–13:39
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 18
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 05:34\, book off 13:39. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270212@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270212-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270212T071000
 DTEND;TZID=Europe/London:20270212T154600
 SUMMARY:Spare (A/R) 07:10–15:46
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 18
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:10\, book off 15:46. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270213@ews-roster
-DTSTAMP:20261109T145254Z
-DTSTART;TZID=Europe/London:20270213T082000
-DTEND;TZID=Europe/London:20270213T165600
-SUMMARY:Spare (A/R) 08:20–16:56
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 18
- . Always check the alteration sheet daily.
+UID:20270213-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
+DTSTART;TZID=Europe/London:20270213T082400
+DTEND;TZID=Europe/London:20270213T170000
+SUMMARY:Spare (A/R) 08:24–17:00
+DESCRIPTION:Book on 08:24\, book off 17:00. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270214@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270214-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270214T101600
 DTEND;TZID=Europe/London:20270214T193700
 SUMMARY:EW2620 10:16–19:37
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 19
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 10:16\, book off 19:37. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270215@ews-roster
-DTSTAMP:20261109T145254Z
-DTSTART;TZID=Europe/London:20270215T112500
-DTEND;TZID=Europe/London:20270215T200400
-SUMMARY:Spare (A/R) 11:25–20:04
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 19
- . Always check the alteration sheet daily.
+UID:20270215-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
+DTSTART;TZID=Europe/London:20270215T113700
+DTEND;TZID=Europe/London:20270215T201600
+SUMMARY:Spare (A/R) 11:37–20:16
+DESCRIPTION:Book on 11:37\, book off 20:16. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270216@ews-roster
-DTSTAMP:20261109T145254Z
-DTSTART;TZID=Europe/London:20270216T112000
-DTEND;TZID=Europe/London:20270216T195900
-SUMMARY:Spare (A/R) 11:20–19:59
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 19
- . Always check the alteration sheet daily.
+UID:20270216-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
+DTSTART;TZID=Europe/London:20270216T122000
+DTEND;TZID=Europe/London:20270216T205900
+SUMMARY:Spare (A/R) 12:20–20:59
+DESCRIPTION:Book on 12:20\, book off 20:59. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270219@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270219-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270219T084000
 DTEND;TZID=Europe/London:20270219T162400
 SUMMARY:EW606 08:40–16:24
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 19
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 08:40\, book off 16:24. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270220@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270220-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270220T074000
 DTEND;TZID=Europe/London:20270220T161900
 SUMMARY:Spare (A/R) 07:40–16:19
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 19
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:40\, book off 16:19. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270221@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270221-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270221T084000
 DTEND;TZID=Europe/London:20270221T144000
 SUMMARY:EW2602 08:40–14:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 20
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 08:40\, book off 14:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270222@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270222-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270222T064500
 DTEND;TZID=Europe/London:20270222T152400
 SUMMARY:Spare (A/R) 06:45–15:24
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 20
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 06:45\, book off 15:24. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270223@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270223-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270223T071000
 DTEND;TZID=Europe/London:20270223T154900
 SUMMARY:Spare (A/R) 07:10–15:49
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 20
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 07:10\, book off 15:49. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270224@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270224-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270224T084000
 DTEND;TZID=Europe/London:20270224T162400
 SUMMARY:EW606 08:40–16:24
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 20
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 08:40\, book off 16:24. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270225@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270225-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270225T093000
 DTEND;TZID=Europe/London:20270225T180700
 SUMMARY:Safety Brief 09:30–18:07
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 20
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 09:30\, book off 18:07. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270303@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270303-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270303T153100
 DTEND;TZID=Europe/London:20270303T233600
 SUMMARY:EW613 15:31–23:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 21
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:31\, book off 23:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270304@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270304-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270304T133500
 DTEND;TZID=Europe/London:20270304T224300
 SUMMARY:EW610 13:35–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 21
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:35\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270305@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270305-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270305T133500
 DTEND;TZID=Europe/London:20270305T224300
 SUMMARY:EW610 13:35–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 21
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:35\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270306@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270306-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270306T142500
 DTEND;TZID=Europe/London:20270306T224200
 SUMMARY:EW1614 14:25–22:42
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 21
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:25\, book off 22:42. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270307@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270307-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270307T154100
 DTEND;TZID=Europe/London:20270307T233000
 SUMMARY:EW2703 15:41–23:30
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 22
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:41\, book off 23:30. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270308@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270308-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270308T153100
 DTEND;TZID=Europe/London:20270308T233600
 SUMMARY:EW613 15:31–23:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 22
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:31\, book off 23:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270309@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270309-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270309T154500
 DTEND;TZID=Europe/London:20270310T002400
 SUMMARY:Spare (A/R) 15:45–00:24
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 22
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:45\, book off 00:24. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270312@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270312-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270312T162000
 DTEND;TZID=Europe/London:20270313T002600
 SUMMARY:EW614 16:20–00:26
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 22
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:20\, book off 00:26. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270313@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270313-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270313T153000
 DTEND;TZID=Europe/London:20270313T213000
 SUMMARY:EW1617 15:30–21:30
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 22
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:30\, book off 21:30. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270314@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270314-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270314T131900
 DTEND;TZID=Europe/London:20270314T223000
 SUMMARY:EW2610 13:19–22:30
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 23
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:19\, book off 22:30. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270315@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270315-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270315T134000
 DTEND;TZID=Europe/London:20270315T221900
 SUMMARY:Spare (A/R) 13:40–22:19
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 23
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:40\, book off 22:19. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270316@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270316-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270316T132000
 DTEND;TZID=Europe/London:20270316T234000
 SUMMARY:EW609 13:20–23:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 23
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:20\, book off 23:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270317@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270317-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270317T151600
 DTEND;TZID=Europe/London:20270317T234000
 SUMMARY:EW612 15:16–23:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 23
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:16\, book off 23:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270318@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270318-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270318T153100
 DTEND;TZID=Europe/London:20270318T233600
 SUMMARY:EW613 15:31–23:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 23
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:31\, book off 23:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270324@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270324-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270324T160500
 DTEND;TZID=Europe/London:20270325T004400
 SUMMARY:Spare (A/R) 16:05–00:44
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 24
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:05\, book off 00:44. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270325@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270325-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270325T152000
 DTEND;TZID=Europe/London:20270325T235900
 SUMMARY:Spare (A/R) 15:20–23:59
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 24
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:20\, book off 23:59. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270326@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270326-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270326T153100
 DTEND;TZID=Europe/London:20270326T233600
 SUMMARY:EW613 15:31–23:36
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 24
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:31\, book off 23:36. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270327@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270327-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270327T151500
 DTEND;TZID=Europe/London:20270327T233500
 SUMMARY:EW1616 15:15–23:35
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 24
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:15\, book off 23:35. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270328@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270328-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270328T152800
 DTEND;TZID=Europe/London:20270328T233000
 SUMMARY:EW2611 15:28–23:30
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 25
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:28\, book off 23:30. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270329@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270329-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270329T133500
 DTEND;TZID=Europe/London:20270329T224300
 SUMMARY:EW610 13:35–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 25
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:35\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270330@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270330-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270330T135000
 DTEND;TZID=Europe/London:20270330T222900
 SUMMARY:Spare (A/R) 13:50–22:29
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 25
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:50\, book off 22:29. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270402@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270402-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270402T110000
 DTEND;TZID=Europe/London:20270402T204500
 SUMMARY:Route Refresh 11:00–20:45
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 25
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:00\, book off 20:45. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270403@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270403-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270403T162500
 DTEND;TZID=Europe/London:20270404T000700
 SUMMARY:EW1618 16:25–00:07
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 25
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:25\, book off 00:07. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270405@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270405-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270405T104400
 DTEND;TZID=Europe/London:20270405T202800
 SUMMARY:EW607 10:44–20:28
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 26
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 10:44\, book off 20:28. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270406@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270406-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270406T104400
 DTEND;TZID=Europe/London:20270406T202800
 SUMMARY:EW607 10:44–20:28
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 26
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 10:44\, book off 20:28. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270407@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270407-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270407T133500
 DTEND;TZID=Europe/London:20270407T224300
 SUMMARY:EW610 13:35–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 26
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:35\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270408@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270408-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270408T132000
 DTEND;TZID=Europe/London:20270408T234000
 SUMMARY:EW609 13:20–23:40
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 26
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:20\, book off 23:40. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270411@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270411-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270411T101000
 DTEND;TZID=Europe/London:20270411T175500
 SUMMARY:Spare (A/R) 10:10–17:55
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 27
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 10:10\, book off 17:55. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270414@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270414-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270414T043000
 DTEND;TZID=Europe/London:20270414T130900
 SUMMARY:Spare (A/R) 04:30–13:09
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 27
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 04:30\, book off 13:09. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270415@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270415-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270415T051800
 DTEND;TZID=Europe/London:20270415T141300
 SUMMARY:EW602 05:18–14:13
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 27
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 05:18\, book off 14:13. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270416@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270416-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270416T044900
 DTEND;TZID=Europe/London:20270416T121100
 SUMMARY:EW620 04:49–12:11
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 27
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 04:49\, book off 12:11. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270417@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270417-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270417T044900
 DTEND;TZID=Europe/London:20270417T121100
 SUMMARY:EW1620 04:49–12:11
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 27
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 04:49\, book off 12:11. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270419@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270419-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270419T111300
 DTEND;TZID=Europe/London:20270419T213800
 SUMMARY:EW608 11:13–21:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 28
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:13\, book off 21:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270420@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270420-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270420T111300
 DTEND;TZID=Europe/London:20270420T213800
 SUMMARY:EW608 11:13–21:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 28
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:13\, book off 21:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270423@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270423-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270423T091300
 DTEND;TZID=Europe/London:20270423T175200
 SUMMARY:Spare (A/R) 09:13–17:52
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 28
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 09:13\, book off 17:52. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270424@ews-roster
-DTSTAMP:20261109T145254Z
-DTSTART;TZID=Europe/London:20270424T110600
-DTEND;TZID=Europe/London:20270424T194500
-SUMMARY:Spare (A/R) 11:06–19:45
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 28
- . Always check the alteration sheet daily.
+UID:20270424-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
+DTSTART;TZID=Europe/London:20270424T124000
+DTEND;TZID=Europe/London:20270424T211900
+SUMMARY:Spare (A/R) 12:40–21:19
+DESCRIPTION:Book on 12:40\, book off 21:19. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270425@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270425-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270425T114200
 DTEND;TZID=Europe/London:20270425T193200
 SUMMARY:EW2607 11:42–19:32
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 29
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:42\, book off 19:32. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270426@ews-roster
-DTSTAMP:20261109T145254Z
-DTSTART;TZID=Europe/London:20270426T113500
-DTEND;TZID=Europe/London:20270426T201400
-SUMMARY:Spare (A/R) 11:35–20:14
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 29
- . Always check the alteration sheet daily.
+UID:20270426-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
+DTSTART;TZID=Europe/London:20270426T123800
+DTEND;TZID=Europe/London:20270426T211700
+SUMMARY:Spare (A/R) 12:38–21:17
+DESCRIPTION:Book on 12:38\, book off 21:17. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270427@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270427-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270427T125000
 DTEND;TZID=Europe/London:20270427T212900
 SUMMARY:Spare (A/R) 12:50–21:29
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 29
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 12:50\, book off 21:29. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270428@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270428-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270428T142500
 DTEND;TZID=Europe/London:20270428T224300
 SUMMARY:EW611 14:25–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 29
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:25\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270429@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270429-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270429T142500
 DTEND;TZID=Europe/London:20270429T224300
 SUMMARY:EW611 14:25–22:43
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 29
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:25\, book off 22:43. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270505@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270505-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270505T111300
 DTEND;TZID=Europe/London:20270505T213800
 SUMMARY:EW608 11:13–21:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 30
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:13\, book off 21:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270506@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270506-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270506T124000
 DTEND;TZID=Europe/London:20270506T211900
 SUMMARY:Spare (A/R) 12:40–21:19
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 30
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 12:40\, book off 21:19. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270507@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270507-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270507T132000
 DTEND;TZID=Europe/London:20270507T224800
 SUMMARY:EW609 13:20–22:48
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 30
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:20\, book off 22:48. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270508@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270508-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270508T143800
 DTEND;TZID=Europe/London:20270509T000700
 SUMMARY:EW1615 14:38–00:07
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 30
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 14:38\, book off 00:07. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270510@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270510-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270510T154500
 DTEND;TZID=Europe/London:20270511T002400
 SUMMARY:Spare (A/R) 15:45–00:24
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 31
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 15:45\, book off 00:24. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270511@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270511-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270511T160500
 DTEND;TZID=Europe/London:20270512T004400
 SUMMARY:Spare (A/R) 16:05–00:44
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 31
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 16:05\, book off 00:44. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270514@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270514-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270514T113500
 DTEND;TZID=Europe/London:20270514T201400
 SUMMARY:Spare (A/R) 11:35–20:14
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 31
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 11:35\, book off 20:14. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62b1a859cd1a3d99-20270515@ews-roster
-DTSTAMP:20261109T145254Z
+UID:20270515-62b1a859cd1a3d99@ews-roster
+DTSTAMP:20261113T160000Z
 DTSTART;TZID=Europe/London:20270515T132900
 DTEND;TZID=Europe/London:20270515T213800
 SUMMARY:EW1612 13:29–21:38
-DESCRIPTION:EWS Edinburgh roster Dec 2026 – May 2027. Main link\, line 31
- . Always check the alteration sheet daily.
+DESCRIPTION:Book on 13:29\, book off 21:38. Base roster only – check the alteration sheet.
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
